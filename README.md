@@ -1,10 +1,3 @@
 ### Hi there 👋
-
-- 🔭 I’m currently working on AUK
-- 🌱 I’m currently learning Typescript and Vue3 so on...
-- 🤔 I’m looking for help with coding
-- 💬 Ask me about the one
-- 📫 How to reach me: 184592775@qq.com
-- 😄 Pronouns: O(∩_∩)O~
-- ⚡ Fun fact: good good study, day day up
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhaoer)](https://github.com/anuraghazra/github-readme-stats)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huhaoer&layout=compact)
