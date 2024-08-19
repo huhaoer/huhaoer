@@ -2,7 +2,7 @@
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=huhaoer&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huhaoer&layout=compact)
 -->
-你好鸭，我是Layoung
+你好，我是Layoung
 
 - 互联网码农
 - 前端搬砖工
